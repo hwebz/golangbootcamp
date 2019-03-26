@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/codegangsta/cli"
-	"github.com/hwebz/golangbootcamp.com/clirescue/trackerapi"
+	"github.com/hwebz/golangbootcamp/clirescue/trackerapi"
 )
 
 func main() {

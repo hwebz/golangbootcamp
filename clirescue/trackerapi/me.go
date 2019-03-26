@@ -8,8 +8,8 @@ import (
 	"os"
 	u "os/user"
 
-	"github.com/hwebz/golangbootcamp.com/clirescue/cmdutil"
-	"github.com/hwebz/golangbootcamp.com/clirescue/user"
+	"github.com/hwebz/golangbootcamp/clirescue/cmdutil"
+	"github.com/hwebz/golangbootcamp/clirescue/user"
 )
 
 var (
