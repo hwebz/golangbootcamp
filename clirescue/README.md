@@ -35,8 +35,8 @@ go run main.go me
 
 You can use the following demo Pivotal Tracker account:
 
-* Username: gobootcamp
-* Password: santamonica
+* Username: devilart93
+* Password: Dk********@****
 
 
 ## Start rescuing
