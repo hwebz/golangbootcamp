@@ -8,6 +8,9 @@ import (
 	"os"
 	u "os/user"
 
+	// . "fmt" // access directly without fmt.
+	// _ "fmt" // remove compiler warning related to fmt if it is not being used
+
 	"github.com/hwebz/golangbootcamp/clirescue/cmdutil"
 	"github.com/hwebz/golangbootcamp/clirescue/user"
 )
